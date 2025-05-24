@@ -10,14 +10,6 @@ This repository contains assignment solutions focused on enhancing and evolving 
 - **Assignment 3:** Extend the code with Domain-Driven Design (DDD) principles.
 - **Subsequent Assignments:** Further enhancements following course topics.
 
-## Usage
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/cs548-enterprise-software-architecture.git
-    ```
-2. Open the relevant assignment folder to review or run the code.
-
 ## Notes
 
 - This repository is for educational purposes and contains only assignment-related code.
